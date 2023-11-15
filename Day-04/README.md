@@ -34,6 +34,16 @@ def square(x):
 pi = 3.14159265
 ```
 
+```python
+# my_module.py
+def square(x):
+    return x ** 2
+
+pi = 3.14159265
+```
+
+
+
 You can use this module in another script:
 
 ```python
